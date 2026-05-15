@@ -4,3 +4,4 @@ roboflow/
 kirpilmis_etiketler/
 *.log
 .DS_Store
+.env
